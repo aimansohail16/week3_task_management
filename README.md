@@ -1,16 +1,13 @@
 # week3_task_management
+## Task Management App
+A simple Task Management App built using Flutter with the following features:
 
-A new Flutter project.
+* Add, delete, and mark tasks as complete
+* Data persistence using SharedPreferences
+* Custom splash screen on app launch
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+* Home screen with a list of tasks
+* Add, delete, and mark tasks as completed
+* Data is saved using SharedPreferences (even after app restart)
+* Custom splash screen on app launch
